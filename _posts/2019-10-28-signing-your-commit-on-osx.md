@@ -72,13 +72,13 @@ Once you have entered your options, pinentry will prompt you for a password for 
 
     You need a user ID to identify your key; the software constructs the user ID
     from the Real Name, Comment and Email Address in this form:
-        "Heinrich Heine (Der Dichter) <heinrichh@duesseldorf.de>"
+        "RandallTux (rndtx) <me@rndtx.id>"
 
-    Real name: Dr Duh
-    Email address: doc@duh.to
+    Real name: RandallTux
+    Email address: me@rndtx.id
     Comment:
     You selected this USER-ID:
-        "Dr Duh <doc@duh.to>"
+        "RandallTux <me@rndtx.id>"
 
     Change (N)ame, (C)omment, (E)mail or (O)kay/(Q)uit? o
     You need a Passphrase to protect your secret key.

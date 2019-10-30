@@ -5,7 +5,7 @@ baseurl:        ""
 url:            "https://nikotidar.github.io"
 
 # Google Analytics
-# google_analytics: UA—XXXXXXXX-X
+google_analytics: UA-138546553-2
 
 # Author
 author:         

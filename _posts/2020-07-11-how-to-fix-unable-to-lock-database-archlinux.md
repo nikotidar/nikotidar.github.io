@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How To Fix "unable to lock database" Arch Linux"
+title: "How To Fix `unable to lock database` Arch Linux"
 author: "rndtx"
 ---
 

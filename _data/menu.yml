@@ -8,8 +8,8 @@ entries:
         url: mailto:iko.tidar@gmail.com
       - title: linkedin
         url: https://www.linkedin.com/in/randalltux/
-      - title: readme
-        url: https://nikotidar.github.io/about
+      - title: now
+        url: https://nikotidar.github.io/now/
 
   - title: all posts
     post_list:
